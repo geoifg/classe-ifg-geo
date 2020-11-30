@@ -4,7 +4,7 @@
 
 Modelo de documentos acadêmicos em LaTeX do Instituto Federal de Goiás (IFG).
 
-Modelo canônico para Trabalho de Conclusão de Curso (TCC), monografia de especialização, dissertação de mestrado, tese de doutorado e qualificações, feito pelo Prof. Raphael Gomes (Depto. 4/IFG-Campus Goiânia) em https://github.com/raphaeldeaquino/classe-ifg.
+Modelo canônico para Trabalho de Conclusão de Curso (TCC), monografia de especialização, dissertação de mestrado, tese de doutorado e qualificações, feito pelo Prof. Raphael Gomes (Depto. 4/IFG-Campus Goiânia) disponível originalmente em: https://github.com/raphaeldeaquino/classe-ifg.
 
 Esse template é modificado do original para o modelo de TCC da Engenharia Cartográfica e de Agrimensura (Departamento III/IFG). 
 
