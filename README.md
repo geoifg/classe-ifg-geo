@@ -15,7 +15,7 @@ Qualquer problema com a utilização ou com o modelo em si, basta criar um issue
 
 ## Modelo em PDF
 
-Se você quer ter uma ideia de como é o modelo, a compilação deve resultar no seguinte [PDF](../../../classe-ifg/blob/master/modelo-ifg.pdf).
+Se você quer ter uma ideia de como é o modelo, a compilação deve resultar no seguinte [PDF](../../../classe-ifg-geo/blob/master/modelo-ifg.pdf).
 
 
 ## Baixando diretamente modelo IFG
